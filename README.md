@@ -60,11 +60,30 @@
 
 
 ## GitHub Profile Summary
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T4D4-IU&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=T4D4-IU&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=T4D4-IU&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=T4D4-IU&theme=default)
 
+<div align="center">
+
+<!-- プロフィール詳細 - フル幅 -->
+![github yearly summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T4D4-IU&theme=default)
+
+<!-- 2x2 グリッドレイアウト -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-t4d4.vercel.app/api/?username=T4D4-IU&show_icons=true&theme=transparent&hide_rank=true&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-t4d4.vercel.app/api/top-langs/?username=T4D4-IU&hide=c,python&theme=transparent&layout=donut&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://wakatime.com/share/@T4D4/c0077e86-08b8-4f76-9cb9-62f4123e6047.svg" alt="Wakatime Stats" width="800" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## Recently Played
 <div align="center">
