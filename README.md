@@ -70,10 +70,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-t4d4.vercel.app/api/?username=T4D4-IU&show_icons=true&theme=transparent&hide_rank=true&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-t4d4.vercel.app/api/?username=T4D4-IU&show_icons=true&hide_rank=true&hide_border=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-t4d4.vercel.app/api/top-langs/?username=T4D4-IU&hide=c,python&theme=transparent&layout=donut&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats-t4d4.vercel.app/api/top-langs/?username=T4D4-IU&hide=c,python&layout=donut&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
   <tr>
