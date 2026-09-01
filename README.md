@@ -1,31 +1,22 @@
 # ***<div align="center">Hi!👋 I'm T4D4!🦀</div>***
 
-- I am a university student in Japan.
+- I am a Japanese Developer.
 - Recently, I am interested in Digital Identity and Rust.
 - I love Music, Anime, and Game.
 
-## MyFavorites
+## MyInterest
 <div align="center">
     <a href="https://www.rust-lang.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />
   </a>
-  <a href="https://internetcomputer.org/" target="_blank">
-    <img style="margin: 10px" src="https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZGZpbml0eVwvZmlsZVwvZmE0QTVhcUR4MWVWZVJFQTRiTnAucG5nIn0:dfinity:IdAJOMHSBmHNqnd87mG-FQjWJO9E7dGTG802kJeqRTk" alt="InternetComputer" height="50" />
-  </a>
     <a href="https://svelte.dev/" target="_blank">
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="Svelte" height="50" />
+    <img style="margin: 10px" src="https://www.pngrepo.com/png/354416/512/svelte-icon.png" alt="Svelte" height="50" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-  </a>
-  <a href="https://www.tailwindcss.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
+  <a href="https://kubernetes.io/" target="_blank">
+    <img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fmixd%2F512%2F16_kubernetes-512.png&f=1&nofb=1&ipt=efb43b71f875fe31fc0ff124bebc5e08ae1dc13e405b257bdeed76939752ca4c" alt="k8s" height="50" />
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-  </a>
-  <a href="https://www.blender.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />
   </a>
 </div>
 
@@ -70,10 +61,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-t4d4.vercel.app/api/?username=T4D4-IU&show_icons=true&hide_rank=true&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=T4D4-IU&langs_count=4&theme=midnight-purple" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-t4d4.vercel.app/api/top-langs/?username=T4D4-IU&hide=c,python&layout=donut&hide_border=true" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api?username=T4D4-IU&hide_rank=true&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Top Languages" />
     </td>
   </tr>
   <tr>
@@ -86,9 +77,7 @@
 </div>
 
 ## Recently Played
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ol0wdz21wurovx56yrxr5bk4s" />
-</div>
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ol0wdz21wurovx56yrxr5bk4s&theme=spotify&count=10&width=500&radius=12)
 
 ----
 <div align="center">
